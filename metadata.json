@@ -1,0 +1,6 @@
+{
+  "name": "El Bueno de Cuttlas - Calpurnio 2D Engine",
+  "description": "An authentic tribute to Calpurnio's El Bueno de Cuttlas with procedural 2D skeletal rigging, hand-drawn line boil, and Western comic gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
